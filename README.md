@@ -26,7 +26,7 @@ Mi trabajo más reciente se centra en el estudio de la mortalidad en la Unión E
 ---
 
 ### 📊 Estadísticas de GitHub
-![Estadísticas de cesl78](https://github-readme-stats.vercel.app/api?username=cesl78&show_icons=true&theme=radical)
+![Mis Lenguajes Más Usados](https://github-readme-stats.vercel.app/api/top-langs/?username=cesl78&layout=compact&theme=vision-glow)
 ---
 
 ### 📫 Contacto
