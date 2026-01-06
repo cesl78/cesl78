@@ -26,7 +26,11 @@ Mi trabajo más reciente se centra en el estudio de la mortalidad en la Unión E
 ---
 
 ### 📊 Estadísticas de GitHub
-![Mis Lenguajes Más Usados](https://github-readme-stats.vercel.app/api/top-langs/?username=cesl78&layout=compact&theme=vision-glow)
+<p align="center">
+<a href="https://github.com/javierruanohdez">
+  <img height="150em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=javierruanohdez&layout=compact&langs_count=8&theme=highcontrast"/>
+</a>
+</p>
 ---
 
 ### 📫 Contacto
